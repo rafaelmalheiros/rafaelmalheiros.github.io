@@ -14,6 +14,7 @@ header {
   text-align: center;
 }
 #rafael-logo {
+  max-width: 1080px;
   width: 80vw;
   fill: white;
   position: absolute;
@@ -24,6 +25,7 @@ header {
   animation: move-and-fill 3s ease forwards 4.5s;
 }
 nav {
+  max-width: 1080px;
   opacity: 0;
   position: absolute;
   width: 80vw;
